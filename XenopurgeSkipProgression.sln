@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XenopurgeSkipProgression", "XenopurgeSkipProgression.csproj", "{CB8C428D-90A4-4C36-E620-845540F6D239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB8C428D-90A4-4C36-E620-845540F6D239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB8C428D-90A4-4C36-E620-845540F6D239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB8C428D-90A4-4C36-E620-845540F6D239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB8C428D-90A4-4C36-E620-845540F6D239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69D9F2FC-5EAD-417C-898A-D96949BCDCF0}
+	EndGlobalSection
+EndGlobal
