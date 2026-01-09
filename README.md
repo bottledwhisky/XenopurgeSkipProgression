@@ -1,6 +1,6 @@
 # XenopurgeSkipProgression
 
-Skip the command progression reward screen after you have maxed everything out.
+Skip the commander progression reward screen after you have maxed everything out.
 
 A MelonLoader mod for Xenopurge.
 
@@ -10,7 +10,7 @@ Source code is available on [GitHub](https://github.com/bottledwhisky/XenopurgeS
 
 ## Features
 
-- Removes the command progression reward screen when you have reached the max ranks and completed all challenges.
+- Removes the commander progression reward screen when you have reached the max ranks and completed all challenges.
 
 ## Requirements
 
