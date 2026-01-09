@@ -6,6 +6,8 @@ A MelonLoader mod for Xenopurge.
 
 ![screenshot](screenshots/screenshot.png)
 
+Source code is available on [GitHub](https://github.com/bottledwhisky/XenopurgeSkipProgression).
+
 ## Features
 
 - Removes the command progression reward screen when you have reached the max ranks and completed all challenges.
